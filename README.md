@@ -5,4 +5,3 @@
   
 <h2>Certifications</h2>
 CompTIA Security+ (EXPECTED DECEMBER 2024)
--->
