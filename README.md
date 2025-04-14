@@ -1,30 +1,40 @@
-# Hello, I'm Jesus
-<a href="https://www.linkedin.com/in/jesus-ayala-5b135b203/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 💻 Jesse Ayala
 
-I'm currently pursuing a Bachelor of Science in Cybersecurity, with plans to graduate soon and an interest in the tech field.
+**Cybersecurity Student | Aspiring SOC Analyst | Python Enthusiast**
 
-## Objective
+Hey there! I'm Jesse, a junior pursuing a Bachelor of Science in Cybersecurity. I'm passionate about defending systems, writing clean code, and breaking things ethically to understand how they work. I’m on a journey to become a SOC Tier 1 Analyst and am currently sharpening my skills through hands-on labs, coursework, and personal projects.
 
-I'm currently pursuing a Bachelor of Science in Cybersecurity, with plans to graduate soon. My goal is to become a SOC Tier 1 analyst, where I can apply my skills in protecting and securing digital assets. I'm passionate about learning and growing in the field of cybersecurity.
+---
 
-## Skills
+## 🚀 Skills & Tools
+- **Languages:** Python, HTML, CSS, Bash
+- **Cybersecurity:** Network configuration, vulnerability scanning, penetration testing fundamentals
+- **Tools:** Wireshark, Nmap, Nessus, Burp Suite, OWASP ZAP, Metasploit
+- **Concepts:** Networking (TCP/IP, DNS), Linux basics, Security+ principles, social engineering awareness
 
+---
 
-| Skill                                         | Associated Project         |
+## 📁 Projects
 
+### 🔐 Lock Brute Force Estimator  
+A Python program that calculates the time it would take to brute-force a physical lock based on user-defined parameters. Involves loops, math, and file writing.
 
-## Tools
+### 🛡️ Secure Password Generator & Validator  
+An interactive Python tool that generates random passwords and validates them against complexity rules. Includes user input, character checks, and results logging.
 
-### Network Tools
-<div>
-     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
+### 🌐 Port Scanner with Report Output  
+A Python-based scanner that checks open ports from a predefined list and writes results to a text file. Built using only early programming concepts (chapters 1–5 style).
 
-## Certifications
+---
 
-<div>
-  CompTIA Security+ (Expected December 2024)
-</div>
+## 📫 Let's Connect
+- 📧 Email: [YourEmail@example.com]
+- 💼 LinkedIn: [YourLinkedInHere]
+- 🧠 Currently preparing for: CompTIA Security+
 
-## Projects
-- Built a Home Lab
+---
+
+> "Amateurs hack systems. Professionals hack people." – Bruce Schneier
+
+Thanks for visiting my profile!
+
