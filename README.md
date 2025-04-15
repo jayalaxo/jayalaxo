@@ -1,40 +1,45 @@
-# 💻 Jesse Ayala
+# 👨‍💻 Jesse Ayala | Aspiring Cybersecurity Analyst
 
-**Cybersecurity Student | Aspiring SOC Analyst | Python Enthusiast**
-
-Hey there! I'm Jesse, a junior pursuing a Bachelor of Science in Cybersecurity. I'm passionate about defending systems, writing clean code, and breaking things ethically to understand how they work. I’m on a journey to become a SOC Tier 1 Analyst and am currently sharpening my skills through hands-on labs, coursework, and personal projects.
-
----
-
-## 🚀 Skills & Tools
-- **Languages:** Python, HTML, CSS, Bash
-- **Cybersecurity:** Network configuration, vulnerability scanning, penetration testing fundamentals
-- **Tools:** Wireshark, Nmap, Nessus, Burp Suite, OWASP ZAP, Metasploit
-- **Concepts:** Networking (TCP/IP, DNS), Linux basics, Security+ principles, social engineering awareness
+🔒 **Cybersecurity Student** | 🧠 Always Learning | 💻 Python Enthusiast  
+Currently pursuing a Bachelor of Science in Cybersecurity with hands-on experience in security tools, Python programming, and network fundamentals. Eager to contribute to a secure IT environment while building a career in cybersecurity.
 
 ---
 
-## 📁 Projects
-
-### 🔐 Lock Brute Force Estimator  
-A Python program that calculates the time it would take to brute-force a physical lock based on user-defined parameters. Involves loops, math, and file writing.
-
-### 🛡️ Secure Password Generator & Validator  
-An interactive Python tool that generates random passwords and validates them against complexity rules. Includes user input, character checks, and results logging.
-
-### 🌐 Port Scanner with Report Output  
-A Python-based scanner that checks open ports from a predefined list and writes results to a text file. Built using only early programming concepts (chapters 1–5 style).
+## 🛠️ Skills
+- **Languages:** Python, Bash (basic)
+- **Security Tools:** Wireshark, Nmap, Burp Suite, Metasploit
+- **Operating Systems:** Windows, Linux (Kali)
+- **Networking:** Router & Switch setup, cabling, basic command-line networking
+- **Other Tools:** Command Prompt, Virtual Machines (VMware, VirtualBox)
 
 ---
 
-## 📫 Let's Connect
-- 📧 Email: [YourEmail@example.com]
-- 💼 LinkedIn: [YourLinkedInHere]
-- 🧠 Currently preparing for: CompTIA Security+
+## 🚀 Projects
+
+### 🔁 Palindromes Filter
+Filters a list of words to find palindromes between 4–15 characters. Displays:
+- Word length
+- Number of total words
+- Number of palindromes
+- The palindromes themselves
+
+### 🔎 Port Scanner
+Reads randomly generated IPs and ports, scans using socket connections, and displays timeout durations. Simulates the behavior of basic port scanning with simple output handling.
+
+### 🔐 SSN Generator
+Generates randomized Social Security Numbers (SSNs) based on user-defined quantity (1–100). Ensures no duplicates, validates input, and prompts for repeat generations.
+
+### 📝 Character Search in Text File
+Analyzes a text file for total words and lets users search for specific characters (A-Z). Sorts and displays all words that contain the selected character.
+
+### 🔓 Combination Lock Brute Force Simulation
+Simulates brute-forcing a combination lock based on user-defined number of rings and seconds per try. Outputs time in days, hours, minutes, and seconds to crack the lock.
+
+### 🔑 Password Validator & Generator
+Generates secure passwords based on user input (length: 12–20 chars). Ensures each password includes uppercase letters and special characters. Allows user to create multiple passwords and validates length constraints.
 
 ---
 
-> "Amateurs hack systems. Professionals hack people." – Bruce Schneier
-
-Thanks for visiting my profile!
-
+## 📫 Contact
+- 📧 Email: [your email here]
+- 🌐 GitHub: [https://github.com/jesseayala](https://github.com/jesseayala)
