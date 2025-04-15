@@ -41,5 +41,5 @@ Generates secure passwords based on user input (length: 12–20 chars). Ensures 
 ---
 
 ## 📫 Contact
-- 📧 Email: [your email here]
-- 🌐 GitHub: [https://github.com/jesseayala](https://github.com/jesseayala)
+- 📧 Email: [ayala.jesse03@gmail.com]
+- 🌐 GitHub: [https://github.com/jesseayala](https://github.com/jayalaxo)
